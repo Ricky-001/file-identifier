@@ -8,3 +8,9 @@ A simple CLI Tool scripted in Python to check for File types based on MIME types
 * After checking MIME type, the script also compares the identified type against the file extension (if present)
 
 Based on all the above info, a compiled result is provided
+
+_____
+
+## Usage
+file-id.py -f <FILENAME_TO_SEARCH>.<EXT>
+(or simply run the script without arguments and follow the on-screen instructions)
