@@ -12,5 +12,5 @@ Based on all the above info, a compiled result is provided
 _____
 
 ## Usage
-file-id.py -f <FILENAME_TO_SEARCH>.<EXT>
-(or simply run the script without arguments and follow the on-screen instructions)
+file-id.py -f <FILENAME_TO_SEARCH>.<EXTENSION>
+  (or simply run the script without arguments and follow the on-screen instructions)
